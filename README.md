@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **usrr961/usrr961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
